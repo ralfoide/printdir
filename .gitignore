@@ -3,3 +3,5 @@ obj
 Debug
 Release
 *.suo
+*.user
+Backup

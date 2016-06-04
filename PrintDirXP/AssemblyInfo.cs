@@ -7,12 +7,12 @@ using System.Runtime.CompilerServices;
 // associated with an assembly.
 //
 [assembly: AssemblyTitle("PrintDir XP")]
-[assembly: AssemblyDescription("Programme pour imprimer des repertoires")]
+[assembly: AssemblyDescription("Programme pour imprimer des répertoires")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Ralf Inc.")]
 [assembly: AssemblyProduct("PrintDir XP")]
-[assembly: AssemblyCopyright("2002 (c) Ralf")]
-[assembly: AssemblyTrademark("2002 (tm) Ralf")]
+[assembly: AssemblyCopyright("2016 (c) Ralf")]
+[assembly: AssemblyTrademark("2016 (tm) Ralf")]
 [assembly: AssemblyCulture("")]		
 
 //
@@ -26,7 +26,7 @@ using System.Runtime.CompilerServices;
 // You can specify all the values or you can default the Revision and Build Numbers 
 // by using the '*' as shown below:
 
-[assembly: AssemblyVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.1.0.0")]
 
 //
 // In order to sign your assembly you must specify a key to use. Refer to the 
